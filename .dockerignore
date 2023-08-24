@@ -1,0 +1,6 @@
+venv
+tests
+Dockerfile
+README*
+.git
+data
